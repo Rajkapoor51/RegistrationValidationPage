@@ -1,0 +1,11 @@
+body{
+    font-size: 16px;
+    font-family: system-ui;
+    background: -webkit-radial-gradient(top left, #065777,#a12297);
+    text-align: center;
+    padding-top: 10%;
+}
+h1{
+    color: white;
+    font-size: 90px;
+}
