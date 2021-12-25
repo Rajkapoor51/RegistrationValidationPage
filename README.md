@@ -1,5 +1,5 @@
 # RegistrationValidationPage
-It is a registration page through which users can register through the registration page.  It designed on html, CSS, JavaScript..
+It is a registration page through which users can register.It is designed with html, CSS and JavaScript.
 
 ![1ST](https://user-images.githubusercontent.com/89578075/147379826-6fd7e271-9e96-4c12-b4b0-b4bf9ad2d568.jpg)
 ![2](https://user-images.githubusercontent.com/89578075/147379827-96feb4fd-62cb-4499-add0-cedf1d3a2747.jpg)
